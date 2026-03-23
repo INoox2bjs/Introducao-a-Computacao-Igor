@@ -1,1 +1,1 @@
-#Atividades de Introdução a Computacão
+#Atividades de Introdução a Computação
