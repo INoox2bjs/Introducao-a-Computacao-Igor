@@ -1,13 +1,13 @@
-# 🚀 FitData – Startup de Saúde Inteligente
+# FitData – Startup de Saúde Inteligente
 
-## 📌 Descrição da Startup
+## Descrição da Startup
 A **FitData** é uma startup baseada em sistemas de informação que utiliza dados de saúde e bem-estar para ajudar usuários a melhorarem seus hábitos de vida.  
 
 A plataforma coleta dados de dispositivos inteligentes e aplicativos e transforma essas informações em recomendações personalizadas com uso de inteligência artificial.
 
 ---
 
-## 🎯 Problema
+## Problema
 Muitas pessoas utilizam aplicativos de saúde, mas não conseguem interpretar seus dados corretamente, o que gera:
 
 - Má qualidade de sono  
@@ -17,7 +17,7 @@ Muitas pessoas utilizam aplicativos de saúde, mas não conseguem interpretar se
 
 ---
 
-## 📊 Dados (Entrada)
+## Dados (Entrada)
 
 ### Tipos de dados
 - **Estruturados:** passos, batimentos cardíacos, horas de sono  
@@ -30,7 +30,7 @@ Muitas pessoas utilizam aplicativos de saúde, mas não conseguem interpretar se
 
 ---
 
-## ⚙️ Sistema de Informação (Processamento)
+## Sistema de Informação (Processamento)
 
 O sistema funciona em quatro etapas:
 
@@ -41,7 +41,7 @@ O sistema funciona em quatro etapas:
 
 ---
 
-## 📈 Informação e Conhecimento
+## Informação e Conhecimento
 
 ### Informação gerada:
 - Relatórios de saúde  
@@ -55,7 +55,7 @@ O sistema funciona em quatro etapas:
 
 ---
 
-## 🧠 Decisão e Valor
+## Decisão e Valor
 
 ### Decisões possíveis:
 - Ajustar rotina de exercícios  
@@ -70,7 +70,7 @@ O sistema funciona em quatro etapas:
 
 ---
 
-## 🗺️ Mapa Conceitual
+## Mapa Conceitual
 
 ```text
 [DADOS]
