@@ -78,7 +78,7 @@ Passos | Sono | Batimentos | Alimentação | Imagens | Vídeos
 (Estruturados e Não Estruturados)
         ↓
 [PROCESSAMENTO]
-Coleta → Armazenamento → ETL → Inteligência Artificial
+Coleta → Armazenamento → Organização → Inteligência Artificial
         ↓
 [INFORMAÇÃO]
 Relatórios | Métricas | Alertas
