@@ -91,3 +91,8 @@ Treinar | Descansar | Ajustar alimentação
         ↓
 [VALOR]
 Saúde | Qualidade de vida | Personalização
+
+## Elementos do Sistema:
+ENTRADA → PROCESSAMENTO → SAÍDA
+   ↑                         ↓
+   ←-------- FEEDBACK -------
