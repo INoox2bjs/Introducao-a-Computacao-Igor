@@ -26,7 +26,7 @@ Muitas pessoas utilizam aplicativos de saúde, mas não conseguem interpretar se
 ### Origem dos dados
 - Smartwatch  
 - Aplicativos de saúde  
-- Usuário (entrada manual)  
+- Usuário  
 
 ---
 
