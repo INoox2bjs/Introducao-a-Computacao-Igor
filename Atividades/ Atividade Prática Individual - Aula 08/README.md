@@ -36,8 +36,8 @@ O sistema funciona em quatro etapas:
 
 - **Coleta:** captura de dados em tempo real  
 - **Armazenamento:** banco de dados em nuvem  
-- **Processamento:** ETL (organização e limpeza dos dados)  
-- **Análise:** IA e Machine Learning geram insights  
+- **Processamento:** organização e limpeza dos dados
+- **Análise:** IA e Machine Learning que geram compreensão da causa e efeito  
 
 ---
 
