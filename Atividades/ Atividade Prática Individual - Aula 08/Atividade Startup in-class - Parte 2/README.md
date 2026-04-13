@@ -5,6 +5,3 @@ Sistema de Informação em Saúde (SIS)
 
 ## 2 - Mapeie o Fluxo
 Passos diários
-Batimentos cardíacos
-Horas de sono
-Calorias queimadas
