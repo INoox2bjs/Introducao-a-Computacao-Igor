@@ -12,7 +12,7 @@ Sistema de Informação em Saúde (SIS)
 - Calorias queimadas
 
  PROCESSAMENTO
- 1 Coleta
+ ## 1 Coleta
  Captura de dados em tempo real via APIs e sensores
  2 Armazenamento
  Banco de dados em nuvem (data lake / data warehouse)
