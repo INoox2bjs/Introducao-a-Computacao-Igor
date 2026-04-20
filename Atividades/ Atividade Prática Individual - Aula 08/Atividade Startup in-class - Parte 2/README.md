@@ -17,7 +17,7 @@ O sistema coleta os dados em tempo real, armazena em nuvem, realiza limpeza e or
 
  OUTPUTS (Saídas)
  
- Relatórios de saúde, métricas de desempenho, alertas personalizados, identificação de padrões, tendências e recomendações para ações (treino, descanso e alimentação).
+ Relatórios de saúde, métricas de desempenho, alertas personalizados, identificação de padrões, tendências e recomendações para ações como: treino, descanso e alimentação.
 
 ## 3 - Classificação da Arquitetura
 
