@@ -12,15 +12,14 @@ Sistema de Informação em Saúde (SIS)
 - Calorias queimadas
 
  PROCESSAMENTO
- 1 Coleta 
- Captura de dados em tempo real via APIs e sensores
- 2 Armazenamento
- Banco de dados em nuvem (data lake / data warehouse)
- 3 Organização e Limpeza
-- Tratamento de dados inconsistentes
-- Padronização de formatos
-- Integração de múltiplas fontes
- 4 Análise (IA + Machine Learning)
-- Identificação de padrões
-- Correlação entre hábitos (sono, treino, alimentação)
-- Modelos preditivos (fadiga, sedentarismo)
+
+O sistema coleta os dados em tempo real, armazena em nuvem, realiza limpeza e organização, e aplica inteligência artificial e machine learning para identificar padrões, gerar análises e previsões.
+
+OUTPUTS (Saídas):
+Relatórios de saúde, métricas de desempenho, alertas personalizados, identificação de padrões, tendências e recomendações para ações (treino, descanso e alimentação).
+
+## 3 - Classificação da Arquitetura
+
+Classificação: SAD (Sistema de Apoio à Decisão)
+
+Devido o sistema analisar dados com inteligência artificial e gerat recomendações que auxiliam o usuário na tomada de decisões sobre saúde e hábitos de vida.
