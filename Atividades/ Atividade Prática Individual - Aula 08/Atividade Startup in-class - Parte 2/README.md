@@ -15,7 +15,8 @@ Sistema de Informação em Saúde (SIS)
 
 O sistema coleta os dados em tempo real, armazena em nuvem, realiza limpeza e organização, e aplica inteligência artificial e machine learning para identificar padrões, gerar análises e previsões.
 
- OUTPUTS (Saídas):
+ OUTPUTS (Saídas)
+ 
  Relatórios de saúde, métricas de desempenho, alertas personalizados, identificação de padrões, tendências e recomendações para ações (treino, descanso e alimentação).
 
 ## 3 - Classificação da Arquitetura
