@@ -1,8 +1,7 @@
 # 📡 Aula 11 – Redes de Computadores: Topologias, Dispositivos e Meios
 
 👤 **Nome(s) do(s) estudante(s):** Igor Gonçalves Oliveira  
-🎓 **Matrícula(s):** ________________
-
+🎓 **Matrícula(s):** 22604520
 ---
 
 ## 🎯 Objetivo
