@@ -1,77 +1,82 @@
-📡 Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
-👤 Nome(s) dos estudante(s): Igor Gonçalves Oliveira
-🎓 Matrícula(s): ________________
-🎯 Objetivo
+# 📡 Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
+
+👤 **Nome(s) do(s) estudante(s):** Igor Gonçalves Oliveira  
+🎓 **Matrícula(s):** ________________  
+
+---
+
+## 🎯 Objetivo
 
 Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
 
-🕰️ 1. Linha do Tempo
+---
 
-Use este conteúdo para montar um slide ou imagem:
+## 🕰️ 1. Linha do Tempo
 
-LINHA DO TEMPO – REDES DE COMPUTADORES
+### LINHA DO TEMPO – REDES DE COMPUTADORES
 
-1960 ─ Mainframes
-• Computadores grandes e centralizados
-• Usuários acessavam por terminais
+**1960 ─ Mainframes**
+- Computadores grandes e centralizados  
+- Usuários acessavam por terminais  
 
-1969 ─ ARPANET
-• Primeira rede de computadores
-• Projeto do Departamento de Defesa dos EUA
+**1969 ─ ARPANET**
+- Primeira rede de computadores  
+- Projeto do Departamento de Defesa dos EUA  
 
-1970–1980 ─ TCP/IP
-• Desenvolvimento do protocolo padrão
-• Permitiu comunicação entre redes diferentes
+**1970–1980 ─ TCP/IP**
+- Desenvolvimento do protocolo padrão  
+- Permitiu comunicação entre redes diferentes  
 
-1983 ─ Internet Moderna
-• Adoção oficial do TCP/IP
+**1983 ─ Internet Moderna**
+- Adoção oficial do TCP/IP  
 
-1990 ─ Internet Comercial
-• Popularização mundial
-• Surgimento da Web
+**1990 ─ Internet Comercial**
+- Popularização mundial  
+- Surgimento da Web  
 
-2000+ ─ Redes Móveis
-• Wi-Fi, smartphones
-• 4G e 5G
-🔌 2. Elementos da Rede
-ELEMENTOS DE UMA REDE
+**2000+ ─ Redes Móveis**
+- Wi-Fi, smartphones  
+- 4G e 5G  
 
-[EMISSOR] →→→ (MEIO DE TRANSMISSÃO) →→→ [RECEPTOR]
-        ↘__________ PROTOCOLO __________↙
+---
 
-Exemplo real:
-Celular → Wi-Fi → Servidor
+## 🔌 2. Elementos da Rede
 
-EMISSOR:
-Dispositivo que envia dados
-Ex: celular, computador
+### ELEMENTOS DE UMA REDE
 
-RECEPTOR:
-Dispositivo que recebe dados
-Ex: servidor, notebook
+**Exemplo real:**  
+Celular → Wi-Fi → Servidor  
 
-MEIO DE TRANSMISSÃO:
-Caminho da comunicação
-Ex: Wi-Fi, cabo, fibra óptica
+### 🔹 EMISSOR
+Dispositivo que envia dados  
+Ex: celular, computador  
 
-PROTOCOLO:
-Regras da comunicação
-Ex: TCP/IP, HTTP
-🌐 3. Classificação de Redes
-CLASSIFICAÇÃO DE REDES
+### 🔹 RECEPTOR
+Dispositivo que recebe dados  
+Ex: servidor, notebook  
 
-PAN (Personal Area Network)
-• Alcance: poucos metros
-• Exemplo: Bluetooth (celular + fone)
+### 🔹 MEIO DE TRANSMISSÃO
+Caminho da comunicação  
+Ex: Wi-Fi, cabo, fibra óptica  
 
-LAN (Local Area Network)
-• Alcance: casa ou escola
-• Exemplo: Wi-Fi doméstico
+### 🔹 PROTOCOLO
+Regras da comunicação  
+Ex: TCP/IP, HTTP  
 
-MAN (Metropolitan Area Network)
-• Alcance: cidade
-• Exemplo: rede de universidade
+---
 
-WAN (Wide Area Network)
-• Alcance: global
-• Exemplo: Internet
+## 🌐 3. Classificação de Redes
+
+### CLASSIFICAÇÃO DE REDES
+
+### 🔹 PAN (Personal Area Network)
+- Alcance: poucos metros  
+- Exemplo: Bluetooth (celular + fone)  
+
+### 🔹 LAN (Local Area Network)
+- Alcance: casa ou escola  
+- Exemplo: Wi-Fi doméstico  
+
+### 🔹 MAN (Metropolitan Area Network)
+- Alcance: cidade  
+- Exemplo: rede de universidade  
