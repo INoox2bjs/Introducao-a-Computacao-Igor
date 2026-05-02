@@ -1,7 +1,7 @@
 # 📡 Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
 👤 **Nome(s) do(s) estudante(s):** Igor Gonçalves Oliveira  
-🎓 **Matrícula(s):** ________________  
+🎓 **Matrícula(s):** 22604520  
 
 ---
 
