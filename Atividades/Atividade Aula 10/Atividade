@@ -6,43 +6,72 @@
 Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
 
 🕰️ 1. Linha do Tempo
-Principais marcos da evolução das redes:
-Década de 1960 – Mainframes
-Computadores grandes e centralizados
-Acesso por terminais
-1969 – ARPANET
-Primeira rede de computadores
-Projeto militar dos EUA
-Década de 1970 – Criação do TCP/IP
-Base da comunicação entre redes
-1983 – Padronização do TCP/IP
-Surgimento da internet moderna
-Década de 1990 – Internet Comercial
-Popularização global
-Surgimento da Web
-2000 até hoje – Redes Móveis
-Wi-Fi, smartphones
-4G e 5G
+
+Use este conteúdo para montar um slide ou imagem:
+
+LINHA DO TEMPO – REDES DE COMPUTADORES
+
+1960 ─ Mainframes
+• Computadores grandes e centralizados
+• Usuários acessavam por terminais
+
+1969 ─ ARPANET
+• Primeira rede de computadores
+• Projeto do Departamento de Defesa dos EUA
+
+1970–1980 ─ TCP/IP
+• Desenvolvimento do protocolo padrão
+• Permitiu comunicação entre redes diferentes
+
+1983 ─ Internet Moderna
+• Adoção oficial do TCP/IP
+
+1990 ─ Internet Comercial
+• Popularização mundial
+• Surgimento da Web
+
+2000+ ─ Redes Móveis
+• Wi-Fi, smartphones
+• 4G e 5G
 🔌 2. Elementos da Rede
-Esquema:
-Emissor → Meio de Transmissão → Receptor
-          ↳ Protocolo controla a comunicação
-Explicação:
-Emissor
-Dispositivo que envia a informação
+ELEMENTOS DE UMA REDE
+
+[EMISSOR] →→→ (MEIO DE TRANSMISSÃO) →→→ [RECEPTOR]
+        ↘__________ PROTOCOLO __________↙
+
+Exemplo real:
+Celular → Wi-Fi → Servidor
+
+EMISSOR:
+Dispositivo que envia dados
 Ex: celular, computador
-Receptor
-Dispositivo que recebe a informação
+
+RECEPTOR:
+Dispositivo que recebe dados
 Ex: servidor, notebook
-Meio de Transmissão
-Caminho por onde os dados passam
-Ex: Wi-Fi, cabo de rede, fibra óptica
-Protocolo
+
+MEIO DE TRANSMISSÃO:
+Caminho da comunicação
+Ex: Wi-Fi, cabo, fibra óptica
+
+PROTOCOLO:
 Regras da comunicação
 Ex: TCP/IP, HTTP
 🌐 3. Classificação de Redes
-Tipo	Nome	Alcance	Exemplo
-PAN	Personal Area Network	Poucos metros	Bluetooth (celular + fone)
-LAN	Local Area Network	Casa/escola	Wi-Fi doméstico
-MAN	Metropolitan Area Network	Cidade	Rede de universidade
-WAN	Wide Area Network	Global	Internet
+CLASSIFICAÇÃO DE REDES
+
+PAN (Personal Area Network)
+• Alcance: poucos metros
+• Exemplo: Bluetooth (celular + fone)
+
+LAN (Local Area Network)
+• Alcance: casa ou escola
+• Exemplo: Wi-Fi doméstico
+
+MAN (Metropolitan Area Network)
+• Alcance: cidade
+• Exemplo: rede de universidade
+
+WAN (Wide Area Network)
+• Alcance: global
+• Exemplo: Internet
