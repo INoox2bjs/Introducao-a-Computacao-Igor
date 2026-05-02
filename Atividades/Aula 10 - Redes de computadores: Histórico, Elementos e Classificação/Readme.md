@@ -80,3 +80,7 @@ Ex: TCP/IP, HTTP
 ### 🔹 MAN (Metropolitan Area Network)
 - Alcance: cidade  
 - Exemplo: rede de universidade  
+
+## 📚 Referência
+
+![Livro de Redes de Computadores – Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
