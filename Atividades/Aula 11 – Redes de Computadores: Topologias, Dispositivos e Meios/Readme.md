@@ -10,7 +10,6 @@ Entender a organização física e lógica das redes, identificar os principais 
 ---
 ### 🧩 1. Diagramas de Topologias
 
-Representação das principais topologias de rede:
 <img width="1920" height="1080" alt="Diagrama de Topologias" src="https://github.com/user-attachments/assets/0844d8cf-5a71-40c9-a381-1d6f095f9f66" />
 
 ---
