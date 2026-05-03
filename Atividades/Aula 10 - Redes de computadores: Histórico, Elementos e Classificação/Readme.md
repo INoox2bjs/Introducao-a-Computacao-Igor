@@ -12,7 +12,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 ---
 
 ## 🕰️ 1. Linha do Tempo
-[Linha do Tempo.pdf](https://github.com/user-attachments/files/27324939/Linha.do.Tempo.pdf)
+<img width="1920" height="1080" alt="Linha do Tempo" src="https://github.com/user-attachments/assets/02ebe586-d6a2-4c92-96ef-68bcdfeaf994" />
 
 ---
 
