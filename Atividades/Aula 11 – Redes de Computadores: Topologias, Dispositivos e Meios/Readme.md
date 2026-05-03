@@ -16,7 +16,7 @@ Entender a organização física e lógica das redes, identificar os principais 
 
 ### 🔀 2. Quadro Comparativo de Dispositivos
 
-<img width="1920" height="1080" alt="Dispositivos de Rede" src="https://github.com/user-attachments/assets/66d5071b-4ebb-4115-8c61-34905d45ba37" />
+<img width="1920" height="1080" alt="Dispositivos de Rede" src="https://github.com/user-attachments/assets/71fc5bbe-7768-4a29-a8ef-b5709b755be1" />
 
 ---
 
