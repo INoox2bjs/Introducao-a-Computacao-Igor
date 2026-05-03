@@ -22,20 +22,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 ---
 
 ## 🌐 3. Classificação de Redes
-
-### CLASSIFICAÇÃO DE REDES
-
-### 🔹 PAN (Personal Area Network)
-- Alcance: poucos metros  
-- Exemplo: Bluetooth (celular + fone)  
-
-### 🔹 LAN (Local Area Network)
-- Alcance: casa ou escola  
-- Exemplo: Wi-Fi doméstico  
-
-### 🔹 MAN (Metropolitan Area Network)
-- Alcance: cidade  
-- Exemplo: rede de universidade
+<img width="1920" height="1080" alt="Quadro comparativo" src="https://github.com/user-attachments/assets/3dbc5e30-697c-40b8-ae28-6e652447e8bf" />
 
 ## 📚 Referência
 - Livro: *Redes de Computadores* – Tanenbaum  
