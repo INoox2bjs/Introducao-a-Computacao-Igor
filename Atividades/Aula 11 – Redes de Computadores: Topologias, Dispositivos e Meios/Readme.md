@@ -22,21 +22,7 @@ Entender a organização física e lógica das redes, identificar os principais 
 
 ### 📡 3. Meios de Transmissão
 
-#### 🔌 Guiados (com fio)
-- Par trançado  
-- Cabo coaxial  
-- Fibra óptica  
-
-#### 📶 Não guiados (sem fio)
-- Wi-Fi  
-- Bluetooth  
-- Satélite  
-- Infravermelho  
-
-📁 Arquivo: `meios_transmissao.png` ou `meios_transmissao.pdf`
+<img width="1920" height="1080" alt="Meios de transmissão" src="https://github.com/user-attachments/assets/544f1d48-4dd0-42b5-931a-73bbd2ded77f" />
 
 ---
 
-## 📂 Organização dos Arquivos
-
-Criar uma pasta para a atividade, por exemplo:
