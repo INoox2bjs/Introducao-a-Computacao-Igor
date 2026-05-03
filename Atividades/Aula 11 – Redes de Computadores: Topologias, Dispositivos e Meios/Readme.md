@@ -4,7 +4,7 @@
 🎓 **Matrícula(s):** 22604520
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Entender a organização física e lógica das redes, identificar os principais dispositivos e reconhecer os diferentes meios de transmissão.
 
