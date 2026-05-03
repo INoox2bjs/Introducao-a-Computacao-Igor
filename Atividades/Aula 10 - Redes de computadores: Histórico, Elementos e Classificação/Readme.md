@@ -17,27 +17,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 ---
 
 ## 🔌 2. Elementos da Rede
-
-### ELEMENTOS DE UMA REDE
-
-**Exemplo real:**  
-Celular → Wi-Fi → Servidor  
-
-### 🔹 EMISSOR
-Dispositivo que envia dados  
-Ex: celular, computador  
-
-### 🔹 RECEPTOR
-Dispositivo que recebe dados  
-Ex: servidor, notebook  
-
-### 🔹 MEIO DE TRANSMISSÃO
-Caminho da comunicação  
-Ex: Wi-Fi, cabo, fibra óptica  
-
-### 🔹 PROTOCOLO
-Regras da comunicação  
-Ex: TCP/IP, HTTP  
+<img width="1920" height="1080" alt="Elementos de uma rede" src="https://github.com/user-attachments/assets/1a7b6f37-37ec-4222-b760-f4df72fe640a" />
 
 ---
 
