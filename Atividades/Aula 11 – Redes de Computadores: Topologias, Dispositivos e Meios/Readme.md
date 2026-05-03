@@ -7,21 +7,11 @@
 ## Objetivo
 
 Entender a organização física e lógica das redes, identificar os principais dispositivos e reconhecer os diferentes meios de transmissão.
-
 ---
-
-## 📌 Estrutura da Entrega
-
 ### 🧩 1. Diagramas de Topologias
 
 Representação das principais topologias de rede:
-
-- **Estrela (Star)** → Dispositivos conectados a um ponto central (switch/roteador)  
-- **Barramento (Bus)** → Todos os dispositivos compartilham o mesmo cabo  
-- **Anel (Ring)** → Comunicação em formato circular  
-- **Malha (Mesh)** → Todos os dispositivos interligados  
-
-📁 Arquivo: `topologia.png` ou `topologia.pdf`
+<img width="1920" height="1080" alt="Diagrama de Topologias" src="https://github.com/user-attachments/assets/0844d8cf-5a71-40c9-a381-1d6f095f9f66" />
 
 ---
 
