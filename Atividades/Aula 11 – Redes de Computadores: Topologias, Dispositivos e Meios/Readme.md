@@ -16,24 +16,7 @@ Entender a organização física e lógica das redes, identificar os principais 
 
 ### 🔀 2. Quadro Comparativo de Dispositivos
 
-Comparação entre os principais dispositivos de rede:
-
-#### 🔹 Hub
-- Função: Envia dados para todos os dispositivos  
-- Vantagem: Simples e barato  
-- Limitação: Gera tráfego desnecessário  
-
-#### 🔹 Switch
-- Função: Envia dados apenas para o destino correto  
-- Vantagem: Mais eficiente e rápido  
-- Limitação: Custo maior que o hub  
-
-#### 🔹 Roteador
-- Função: Conecta redes diferentes (ex: internet)  
-- Vantagem: Permite acesso à internet  
-- Limitação: Configuração mais complexa  
-
-📁 Arquivo: `dispositivos.png` ou `dispositivos.pdf`
+<img width="1920" height="1080" alt="Dispositivos de Rede" src="https://github.com/user-attachments/assets/66d5071b-4ebb-4115-8c61-34905d45ba37" />
 
 ---
 
