@@ -12,31 +12,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 ---
 
 ## 🕰️ 1. Linha do Tempo
-
-### LINHA DO TEMPO – REDES DE COMPUTADORES
-
-**1960 ─ Mainframes**
-- Computadores grandes e centralizados  
-- Usuários acessavam por terminais  
-
-**1969 ─ ARPANET**
-- Primeira rede de computadores  
-- Projeto do Departamento de Defesa dos EUA  
-
-**1970–1980 ─ TCP/IP**
-- Desenvolvimento do protocolo padrão  
-- Permitiu comunicação entre redes diferentes  
-
-**1983 ─ Internet Moderna**
-- Adoção oficial do TCP/IP  
-
-**1990 ─ Internet Comercial**
-- Popularização mundial  
-- Surgimento da Web  
-
-**2000+ ─ Redes Móveis**
-- Wi-Fi, smartphones  
-- 4G e 5G  
+[Linha do Tempo.pdf](https://github.com/user-attachments/files/27324939/Linha.do.Tempo.pdf)
 
 ---
 
