@@ -25,8 +25,10 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 <img width="1920" height="1080" alt="Quadro comparativo" src="https://github.com/user-attachments/assets/3dbc5e30-697c-40b8-ae28-6e652447e8bf" />
 
 ## 📚 Referências
-- Livro: *Redes de Computadores* – Tanenbaum  
-- Link: https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up
-- WIKIPÉDIA. ARPANET. Disponível em: https://pt.wikipedia.org/wiki/ARPANET.
-- WIKIPÉDIA. Internet. Disponível em: https://pt.wikipedia.org/wiki/Internet.
+- TANENBAUM, A. S.; FEAMSTER, N.; WETHERALL, D. J. Redes de Computadores. 6. ed. São Paulo: Bookman, 2021. Disponível em: https://plataforma.bvirtual.com.br
+. Acesso em: 03 mai. 2026.
+- WIKIPÉDIA. ARPANET. Disponível em: https://pt.wikipedia.org/wiki/ARPANET
+. Acesso em: 03 mai. 2026.
+- WIKIPÉDIA. Internet. Disponível em: https://pt.wikipedia.org/wiki/Internet
+. Acesso em: 03 mai. 2026.
 
