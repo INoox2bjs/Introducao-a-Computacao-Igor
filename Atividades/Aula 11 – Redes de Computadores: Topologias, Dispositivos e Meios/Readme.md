@@ -25,4 +25,13 @@ Entender a organização física e lógica das redes, identificar os principais 
 <img width="1920" height="1080" alt="Meios de transmissão" src="https://github.com/user-attachments/assets/544f1d48-4dd0-42b5-931a-73bbd2ded77f" />
 
 ---
+## 📚 Referências
+- TANENBAUM, A. S.; FEAMSTER, N.; WETHERALL, D. J. Redes de Computadores. 6. ed. São Paulo: Bookman, 2021. Disponível em: https://plataforma.bvirtual.com.br
+. Acesso em: 03 mai. 2026.
+- WIKIPÉDIA. Topologia de rede. Disponível em: https://pt.wikipedia.org/wiki/Topologia_de_rede
+. Acesso em: 03 mai. 2026.
+- WIKIPÉDIA. Dispositivo de rede. Disponível em: https://pt.wikipedia.org/wiki/Dispositivo_de_rede
+. Acesso em: 03 mai. 2026.
+- WIKIPÉDIA. Meio de transmissão. Disponível em: https://pt.wikipedia.org/wiki/Meio_de_transmiss%C3%A3o
+. Acesso em: 03 mai. 2026.
 
