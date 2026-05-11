@@ -1,8 +1,8 @@
-# 🧠 2. Conceitos Fundamentais
+# 🧠 Conceitos Fundamentais
 
 ---
 
-## 🌍 Internet x Web
+## Internet x Web
 
 | 🌐 Internet | 💻 Web |
 |---|---|
@@ -11,7 +11,7 @@
 
 ---
 
-# 🖥️ Cliente e Servidor
+# Cliente e Servidor
 
 ```text
         REQUISIÇÃO
@@ -25,24 +25,24 @@
 
 ---
 
-# 📍 Endereço IP
+# Endereço IP
 
-## 🌐 IPv4
+## IPv4
 
 ```text
 192.168.0.1
 ```
 
-📌 Formato mais comum, com 4 blocos de números.
+Formato mais comum, com 4 blocos de números.
 
 ---
 
-## 🌐 IPv6
+## IPv6
 
 ```text
 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 ```
 
-📌 Novo formato criado para suportar mais dispositivos na Internet.
+Novo formato criado para suportar mais dispositivos na Internet.
 
 ---
