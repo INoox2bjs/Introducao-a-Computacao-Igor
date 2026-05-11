@@ -1,4 +1,4 @@
-# 🧠 Conceitos Fundamentais
+# Conceitos Fundamentais
 
 ---
 
