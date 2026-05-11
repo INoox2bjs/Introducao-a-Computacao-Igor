@@ -1,4 +1,4 @@
-# 🌍 1. HISTÓRIA DA INTERNET
+# 1. HISTÓRIA DA INTERNET
 
 </div>
 
