@@ -1,51 +1,67 @@
-Protocolos
-
-## TCP/IP
-
-### TCP
-Garante a entrega correta dos dados.
-
-### IP
-Responsável pelo endereçamento e roteamento.
-
-### Exemplo prático
-Download de arquivos e acesso a sites.
+# 🔗 Protocolos
 
 ---
 
-## HTTP/HTTPS
+## 📦 TCP/IP
 
-### HTTP
+```text
+TCP → Transporte de dados
+IP  → Endereçamento e roteamento
+```
+
+### ✅ TCP
+Garante a entrega correta dos dados.
+
+### 🌐 IP
+Responsável pelo endereçamento e roteamento.
+
+### 💡 Exemplo prático
+- Download de arquivos
+- Acesso a sites
+
+---
+
+## 🌍 HTTP/HTTPS
+
+### 🔓 HTTP
 Usado para transferência de páginas web.
 
-### HTTPS
+### 🔒 HTTPS
 Versão segura com criptografia.
 
-### Exemplo
+### 💡 Exemplo
+
 ```txt
 https://www.google.com
 ```
 
 ---
 
-## DNS
+## 📡 DNS
 
 Traduz nomes de domínio em endereços IP.
 
-### Exemplo
+### 💡 Exemplo
+
 ```txt
 www.google.com → 142.250.190.14
 ```
 
 ---
 
-## FTP
+## 📂 FTP
 
 Protocolo utilizado para transferência de arquivos.
 
-### Funções
-- upload;
-- download;
-- gerenciamento remoto.
+### ⚙️ Funções
+- Upload
+- Download
+- Gerenciamento remoto
+
+```text
+💻 Cliente FTP
+      ⇅
+🌐 Servidor FTP
+```
 
 ---
