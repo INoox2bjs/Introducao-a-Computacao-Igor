@@ -26,7 +26,7 @@ Os motores de renderização são partes internas do navegador responsáveis por
 
 ---
 
-## Resumo
+## Em Resumo
 
 ```text
 HTML + CSS + JavaScript
