@@ -2,34 +2,34 @@
 
 ---
 
-## 📦 TCP/IP
+## TCP/IP
 
 ```text
 TCP → Transporte de dados
 IP  → Endereçamento e roteamento
 ```
 
-### ✅ TCP
+### TCP
 Garante a entrega correta dos dados.
 
-### 🌐 IP
+### IP
 Responsável pelo endereçamento e roteamento.
 
-### 💡 Exemplo prático
+### Exemplo prático
 - Download de arquivos
 - Acesso a sites
 
 ---
 
-## 🌍 HTTP/HTTPS
+## HTTP/HTTPS
 
-### 🔓 HTTP
+### HTTP
 Usado para transferência de páginas web.
 
-### 🔒 HTTPS
+### HTTPS
 Versão segura com criptografia.
 
-### 💡 Exemplo
+### Exemplo
 
 ```txt
 https://www.google.com
@@ -37,11 +37,11 @@ https://www.google.com
 
 ---
 
-## 📡 DNS
+## DNS
 
 Traduz nomes de domínio em endereços IP.
 
-### 💡 Exemplo
+### Exemplo
 
 ```txt
 www.google.com → 142.250.190.14
@@ -49,14 +49,13 @@ www.google.com → 142.250.190.14
 
 ---
 
-## 📂 FTP
+## FTP
 
 Protocolo utilizado para transferência de arquivos.
 
-### ⚙️ Funções
+### Funções
 - Upload
 - Download
-- Gerenciamento remoto
 
 ```text
 💻 Cliente FTP
